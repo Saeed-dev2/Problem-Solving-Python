@@ -3,7 +3,6 @@
 
 This repository includes clean and efficient Python solutions to selected LeetCode problems in the categories of **Arrays** and **Linked Lists**. Each problem is documented with explanation, code, and complexity analysis.
 
-
 ---
 
 ## 🔢 Problem 1: Two Sum
