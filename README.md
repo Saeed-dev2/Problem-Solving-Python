@@ -1,6 +1,5 @@
 ### 📊 Git Workflow
 
-
 ```mermaid
 gitGraph
    commit id: "Initial commit"
@@ -16,4 +15,5 @@ gitGraph
    checkout main
    merge develop
 ```
+
 
